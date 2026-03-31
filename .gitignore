@@ -4,3 +4,6 @@ dist
 .nx/workspace-data
 *.results.*
 *.tsbuildinfo
+
+.claude/worktrees
+.claude/settings.local.json
